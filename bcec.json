@@ -1,0 +1,820 @@
+{
+    "": {
+        "label": {
+            "none": [
+                "Bulletin du Centre européen de la culture"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/"
+    },
+    "bcec195105": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — mai 1951"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195105/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195105/",
+        "page1": 3
+    },
+    "bcec195203": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — mars 1952"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195203/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195203/",
+        "page1": 1
+    },
+    "bcec195204": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — avril 1952"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195204/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195204/",
+        "page1": 1
+    },
+    "bcec195205": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — mai 1952"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195205/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195205/",
+        "page1": 1
+    },
+    "bcec195207": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — juin-juillet 1952"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195207/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195207/",
+        "page1": 1
+    },
+    "bcec195209": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — août-septembre 1952"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195209/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195209/",
+        "page1": 1
+    },
+    "bcec195210": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — octobre 1952"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195210/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195210/",
+        "page1": 1
+    },
+    "bcec195211": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — novembre 1952"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195211/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195211/",
+        "page1": 1
+    },
+    "bcec195301": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — décembre-janvier 1953"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195301/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195301/",
+        "page1": 1
+    },
+    "bcec195302": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — février 1953"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195302/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195302/",
+        "page1": 1
+    },
+    "bcec195304": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — mars-avril 1953"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195304/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/",
+        "page1": 3
+    },
+    "bcec195306": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — mai-juin 1953"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195306/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195306/",
+        "page1": 3
+    },
+    "bcec195310": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — juillet-octobre 1953"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195310/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195310/",
+        "page1": 3
+    },
+    "bcec195312": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — novembre-décembre 1953"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195312/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195312/",
+        "page1": 1
+    },
+    "bcec195402": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — janvier-février 1954"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195402/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195402/",
+        "page1": 1
+    },
+    "bcec195404": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — mars-avril 1954"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195404/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195404/",
+        "page1": 3
+    },
+    "bcec195407": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — mai-juillet 1954"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195407/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195407/",
+        "page1": 3
+    },
+    "bcec195408": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Bibliographie européenne, août-septembre 1954"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195408/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195408/",
+        "page1": 1
+    },
+    "bcec195408b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Bibliographie européenne, 2ᵉ édition complétée, sans date."
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195408b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195408b/",
+        "page1": 3
+    },
+    "bcec195411": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — octobre-novembre 1954"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195411/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195411/",
+        "page1": 3
+    },
+    "bcec195501": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — décembre 1954-janvier 1955."
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195501/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195501/",
+        "page1": 3
+    },
+    "bcec195503": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — février-mars 1955"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195503/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195503/",
+        "page1": 3
+    },
+    "bcec195509": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — La Fondation européenne de la culture, été 1955"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195509/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195509/",
+        "page1": 3
+    },
+    "bcec195510": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — octobre 1955"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195510/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195510/",
+        "page1": 3
+    },
+    "bcec195512": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Europe-URSS : la question des échanges culturels, décembre 1955"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195512/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195512/",
+        "page1": 3
+    },
+    "bcec195602": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — février 1956"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195602/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195602/",
+        "page1": 3
+    },
+    "bcec195605": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Pour une éducation européenne, avril-mai 1956"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195605/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195605/",
+        "page1": 3
+    },
+    "bcec195607": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — juin-juillet 1956"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195607/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195607/",
+        "page1": 3
+    },
+    "bcec195609": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Origines, buts, activités (1950-1956), août-septembre 1956"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195609/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195609/",
+        "page1": 3
+    },
+    "bcec195611": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe s’inscrit dans les faits, novembre 1956"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195611/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195611/",
+        "page1": 3
+    },
+    "bcec195702": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — février 1957"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195702/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195702/",
+        "page1": 3
+    },
+    "bcec195704": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe et l’école, avril 1957"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195704/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195704/",
+        "page1": 3
+    },
+    "bcec195705": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Le Rôle des festivals dans la vie culturelle de l’Europe, mai 1957"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195705/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195705/",
+        "page1": 3
+    },
+    "bcec195710": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1957, octobre 1957"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195710/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195710/",
+        "page1": 3
+    },
+    "bcec195712": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Promesses du Marché commun, décembre 1957"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195712/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195712/",
+        "page1": 3
+    },
+    "bcec195802": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Objectifs et activités du Centre européen de la culture, février 1958"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195802/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195802/",
+        "page1": 3
+    },
+    "bcec195805": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Méthodes et mouvements pour unir l’Europe, mai 1958"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195805/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195805/",
+        "page1": 3
+    },
+    "bcec195807": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Une université européenne ? juillet 1958"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195807/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195807/",
+        "page1": 3
+    },
+    "bcec195809": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Automation et cybernétique, septembre 1958"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195809/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195809/",
+        "page1": 3
+    },
+    "bcec195811": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Guide européen de l’enseignant, novembre 1958"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195811/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195811/",
+        "page1": 3
+    },
+    "bcec195812": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Définitions, valeurs, énergie, recherches : quatre essais européens, décembre 1958"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195812/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195812/",
+        "page1": 3
+    },
+    "bcec195900": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe s’inscrit dans les faits (édition revue et augmentée), 1959"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195900/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195900/",
+        "page1": 3
+    },
+    "bcec195903": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Les Origines de l’Europe : d’Hésiode à Charlemagne ou du mythe à l’histoire, mars 1959"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195903/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195903/",
+        "page1": 3
+    },
+    "bcec195905": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Éducation et loisirs, mai 1959"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195905/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195905/",
+        "page1": 5
+    },
+    "bcec195909": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Édition et l’Europe, septembre 1959"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195909/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195909/",
+        "page1": 3
+    },
+    "bcec195912": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Neuf expériences d’éducation européenne, décembre 1959"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec195912/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195912/",
+        "page1": 3
+    },
+    "bcec196010": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — CEC : dix ans d’activité, 1959-1960"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196010/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196010/",
+        "page1": 3
+    },
+    "bcec196100a": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Prédictions et réalités : Russie-Europe-États-Unis, 1960-1961"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196100a/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196100a/",
+        "page1": 3
+    },
+    "bcec196100b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1960-1961, octobre 1960"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196100b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196100b/",
+        "page1": 3
+    },
+    "bcec196100c": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Aspects de l’Europe en devenir, 1960-1961"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196100c/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196100c/",
+        "page1": 3
+    },
+    "bcec196100d": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Guide européen de l’enseignement civique, 1960-1961"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196100d/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196100d/",
+        "page1": 3
+    },
+    "bcec196100e": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Hommage à un grand Européen : J. H. Retinger, 1960-1961"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196100e/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196100e/",
+        "page1": 3
+    },
+    "bcec196100f": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Généalogie des grands dessins européens, 1960-1961"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196100f/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196100f/",
+        "page1": 3
+    },
+    "bcec196204": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Pour un dialogue des cultures, avril 1962"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196204/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196204/",
+        "page1": 3
+    },
+    "bcec196208": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Les Chances de l’Europe, août 1962"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196208/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196208/",
+        "page1": 3
+    },
+    "bcec196302": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Édition en Europe (ii), février 1963"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196302/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196302/",
+        "page1": 3
+    },
+    "bcec196305": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Enquête sur l’enseignement civique dans les pays européens, mai 1963"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196305/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196305/",
+        "page1": 3
+    },
+    "bcec196307": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Pour une métropole régionale Aix-Marseille-Étang de Berre, juillet 1963"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196307/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196307/",
+        "page1": 3
+    },
+    "bcec196403": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Formation des cadres européens, mars 1964"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196403/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196403/",
+        "page1": 3
+    },
+    "bcec196409": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — La Campagne d’éducation civique européenne, septembre 1964"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196409/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196409/",
+        "page1": 3
+    },
+    "bcec196412": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1964-1965, décembre 1964"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196412/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196412/",
+        "page1": 3
+    },
+    "bcec196500a": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Science politique et intégration européenne, janvier-mars 1965"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196500a/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196500a/",
+        "page1": 3
+    },
+    "bcec196500b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe et le monde, automne 1965"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196500b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196500b/",
+        "page1": 3
+    },
+    "bcec196600a": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Bilan des activités culturelles au service de l’Europe (1949-1964), printemps 1966"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196600a/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196600a/",
+        "page1": 3
+    },
+    "bcec196600b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1966-1967, automne 1966"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196600b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196600b/",
+        "page1": 3
+    },
+    "bcec196700a": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Civisme et culture, mai 1967"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196700a/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196700a/",
+        "page1": 3
+    },
+    "bcec196700b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Naissance de l’Europe des régions, hiver 1967-1968"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196700b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196700b/",
+        "page1": 3
+    },
+    "bcec196800": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1968-1969, automne 1968"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196800/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196800/",
+        "page1": 3
+    },
+    "bcec196900": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe des régions (II), hiver 1969-1970"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec196900/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec196900/",
+        "page1": 3
+    },
+    "bcec197000a": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Le Cheminement des esprits, été 1970"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197000a/",
+        "page1": 3
+    },
+    "bcec197000b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Méthodes quantitatives et intégration européenne, automne 1970"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197000b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197000b/",
+        "page1": 3
+    },
+    "bcec197100": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Remises en question, automne 1971"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197100/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197100/",
+        "page1": 3
+    },
+    "bcec197200": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe des régions (III), été 1972"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197200/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197200/",
+        "page1": 3
+    },
+    "bcec197400a": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe des régions (iv), printemps 1974"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197400a/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197400a/",
+        "page1": 3
+    },
+    "bcec197400b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Journal d’un Européen, été-automne 1974"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197400b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197400b/",
+        "page1": 3
+    },
+    "bcec197500a": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture, hiver 1975"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197500a/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197500a/",
+        "page1": 3
+    },
+    "bcec197500b": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe des régions (v), printemps-été 1975"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197500b/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197500b/",
+        "page1": 3
+    },
+    "bcec197500c": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Deux études sur la prospective, automne 1975"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197500c/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197500c/",
+        "page1": 3
+    },
+    "bcec197500d": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Europe et ses intellectuels, hiver 1975-1976"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197500d/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197500d/",
+        "page1": 3
+    },
+    "bcec197600": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — Autour du rapport Tindemans, 1976"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197600/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197600/",
+        "page1": 3
+    },
+    "bcec197700": {
+        "label": {
+            "none": [
+                "Bulletin du CEC — L’Itinéraire d’un penseur engagé, 1977"
+            ]
+        },
+        "id": "https://www.unige.ch/rougemont/bcec/bcec197700/",
+        "iiif": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec197700/",
+        "page1": 3
+    }
+}

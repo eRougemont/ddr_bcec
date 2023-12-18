@@ -1,0 +1,62 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+#desk {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#left {
+    height: 100vh;
+    /* position: fixed; */
+    overflow-y: scroll;
+    flex: 0 0 30rem;
+}
+
+#mainframe {
+    position: relative;
+    flex: 0 0 50%;
+}
+
+#covers {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#covers > figure {
+
+}
+
+#bcectoc a {
+    display: block;
+}
+
+a.cover {
+    margin-top: 1rem;
+}
+
+a.level1 {
+    margin-left: 1rem;
+}
+
+a.level2 {
+    margin-left: 2rem;
+}
+
+a.level3 {
+    margin-left: 3rem;
+}
+
+a.level4 {
+    margin-left: 4rem;
+}

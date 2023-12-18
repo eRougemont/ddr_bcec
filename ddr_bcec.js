@@ -100,6 +100,22 @@ class Bcec
     {
         const docid = "TODO";
         const screen = document.getElementById('mainframe');
-        const images = document 
+        const imagesId = docid + '_images';
+        let images = document.getElementById(imagesId);
+        if (!images) {
+            // build it.
+            let images = document.createElement('div');
+            images.setAttribute('id', imagesId);
+            const img1 = null;
+            for (let i = 1; i < Bcec.lib[docid]; i++) {
+                const img = document.createElement('img');
+                img.setAttribute('src', imagesId);
+                if (i == 1) img1 = im 
+            }
+        }
+        if (Bcec.lastImages) {
+            Bcec.lastImages.style.display = 'none';
+            lastImages = images;
+        }
     }
 }
